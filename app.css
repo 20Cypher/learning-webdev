@@ -1,0 +1,49 @@
+h2 {
+    color: white;
+    background-color: black;
+
+}
+
+button {
+    color: rebeccapurple;
+    background-color: cyan;
+}
+
+p {
+    color: olive;
+    font-weight: 100;
+    line-height: 35px;
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: rgb(20, 84, 20);
+    text-align: center;
+    text-decoration: underline red wavy;
+    /* text-decoration: overline; */
+    font-weight: 100;
+    letter-spacing: 5px;
+    font-size: small;
+    font-family: futura;
+}
+
+head {
+    color: black;
+}
+
+h3 {
+    text-decoration: underline dotted purple;
+}
+
+a {
+    text-decoration: none;
+}
+
+img{
+    width:200px;
+    border-width:5px;
+    border-style:solid;
+    border-color:rgb(236,183,191);
+    border-radius:50%;
+}

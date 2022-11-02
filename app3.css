@@ -1,0 +1,87 @@
+div{
+    width:400px;
+    height:400px;
+    background-color: palevioletred;
+    display: inline-block;
+}
+
+body{
+    margin:0px;
+}
+
+h1{
+    width:100px;
+    height:50px;
+    background-color: red;
+    margin: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+#one{
+    background-color: pink;
+    border-width: 10px;
+    border-color: white;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 10%;
+}
+
+#two{
+    background-color:palevioletred;
+    border-color: wheat;
+    border-width: 10px;
+    border-style: dotted;
+    box-sizing: border-box;
+    border-left-color: brown;
+    border-left-width: 5px;
+    border-radius: 25%;
+    padding-right: 50px;
+    padding-top:100px;
+    padding-left: 50px;
+    margin-left:500px;
+}
+
+#three{
+    background-color: papayawhip;
+    border: 10px dashed burlywood;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+
+#dawg{
+    width:250px;
+    border-width:1px;
+    border-style:solid;
+    border-color:grey;
+    border-radius:5px;
+    text-align:center;
+    margin-left:200px;
+}
+
+img{
+    width:200px;
+    border-width:5px;
+    border-style:solid;
+    border-color:rgb(236,183,191);
+    border-radius:50%;
+}
+
+button{
+    background: none;
+    color: #ffa260;
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+    transition: all 0.25s;
+}
+
+button:hover{
+    border-color: #f1ff5c;
+    color: white;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
